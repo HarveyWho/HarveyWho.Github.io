@@ -73,7 +73,7 @@ footer {
     padding: 1em 0;
     background-color: #333;
     color: #fff;
-    position: absolute;
+    position: bottom;
     width: 100%;
     bottom: 0;
 }
